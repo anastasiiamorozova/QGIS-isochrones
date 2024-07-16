@@ -9,4 +9,8 @@ The project was created in QGIS and Illustrator:
 2. Then, I downloaded addresses from the city website and geocoded them, adding them as a layer in QGIS.
 3. Using the 'service area' tool in QGIS, I calculated the isochrones, marking all the streets from where one can reach the nearest shelter in 5 minutes.
 
+The headline says: 
+*Shelters nearby?
+Mission: get to the closest shelter in 5 minutes*
+
 ![sumy](https://github.com/user-attachments/assets/352554f1-a91f-4fd8-a414-27ca9d239a2a)
